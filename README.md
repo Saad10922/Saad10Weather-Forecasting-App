@@ -74,7 +74,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or support, please contact the maintainers:
 
 - Maintainer Name: [M Saad Masood](mailto:saadq10922@gmail.com)
-- GitHub: (https://github.com/username)
+- GitHub: (https://github.com/Saad10922)
 
 
 
